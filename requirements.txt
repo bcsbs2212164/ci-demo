@@ -1,0 +1,5 @@
+fastapi
+uvicron
+pytest
+httpx
+flake8
